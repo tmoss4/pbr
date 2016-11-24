@@ -1,27 +1,32 @@
 <!DOCTYPE html>
 <html class="no-js">
-  <head>
+<head>
 
-    {% include head.html %}
+	{% include head.html %}
 
-  </head>
-  <body>
-
-
-    {% include header.html %}
+</head>
+<body>
 
 
-    {{ content }}
-
-
-
+	{% include header.html %}
+	{% if page.slider == true %}
+	{% include slider.html %}
+	{% endif %}
+	
 
 
 
+	{{ content }}
 
 
 
-    {% include footer.html %}
 
-    </body>
+
+
+
+
+
+	{% include footer.html %}
+
+</body>
 </html>

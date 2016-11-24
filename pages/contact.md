@@ -1,22 +1,13 @@
 ---
 layout: page
 title: Contact us!
+meta_title: PBR - Contact
 permalink: /contact/
+slider: true
+heading: What Do You Want Us to Know?
+subheading: Send us an email or visit the center yourself!
 ---
-
-<!-- Slider Start -->
-<section id="global-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h1>Drop Us A Note</h1>
-          <p>Don’t just take our word for it. Check out some of our latest work.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+## Hello
 
 <div id="contact-box" class="row">
   <div class="col-md-6 col-sm-12">
