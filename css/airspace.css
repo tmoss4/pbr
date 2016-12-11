@@ -101,7 +101,11 @@ header .navbar-default .navbar-nav li a {
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
+<<<<<<< HEAD
   color: #0645AD;
+=======
+  color: #DA182B;
+>>>>>>> origin/gh-pages
 }
 /*---------------------------------------------
 					Index Start
@@ -775,7 +779,11 @@ subfooter .subfooter-manu ul li a:hover {
 	footer Start
 --*/
 footer {
+<<<<<<< HEAD
   background: #fff;
+=======
+  background: #91dff5;
+>>>>>>> origin/gh-pages
   text-align: center;
   padding-top: 25px;
   padding-bottom: 0px;
