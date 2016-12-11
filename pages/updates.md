@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Updates
-meta_title: PBR - Updates
 permalink: /updates/
 slider: true
 heading: Get The Latest On What We're Doing!

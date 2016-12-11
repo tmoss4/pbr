@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Collection
-meta_title: PBR - Collection
 permalink: /collection/
 ---
 # The Paper Beats Rock Collection

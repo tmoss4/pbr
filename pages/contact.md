@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact us!
-meta_title: PBR - Contact
 permalink: /contact/
 slider: true
 heading: What Do You Want Us to Know?

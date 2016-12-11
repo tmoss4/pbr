@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Courses & Projects
-meta_title: PBR - Courses & Projects
 permalink: /courses-projects/
 slider: true
 heading: Courses & Projects
