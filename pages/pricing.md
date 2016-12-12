@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Spaces
-permalink: /spaces/
+title: Pricing
+permalink: /pricing/
 slider: true
 heading: Tools For The 21st Century
 subheading: Get access, get help, create something!
