@@ -10,6 +10,7 @@ language: 'en'
 
 url: https://tmoss4.github.io
 baseurl: /pbr
+imgurl: https://tmoss4.github.io/pbr/img/
 
 github: http://www.github.com/tmoss4
 facebook: https://www.facebook.com/theophilus.moss

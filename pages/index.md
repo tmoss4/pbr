@@ -18,7 +18,7 @@ subheading: "Working, training, and creating for the 21st century."
             <div class="quotor">Yale University</div>
         </div><!-- section-title close -->
       </div><!-- .col-md-7 close -->
-      <div class="col-md-5 col-sm-12">
+      <div class="col-md-5 col-sm-8">
         <div class="block">
           <img src="img/wrapper-img.png" alt="Img">
         </div>
@@ -66,7 +66,7 @@ subheading: "Working, training, and creating for the 21st century."
         <div class="service-item">
           <i class="ion-compass"></i>
           <h4>Web Design</h4>
-          <p>There are many ways to build a website, let us show you how</p>
+          <p>Whether using a template or building from scratch, we'll help you build a website</p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">

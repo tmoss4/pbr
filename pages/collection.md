@@ -2,6 +2,8 @@
 layout: page
 title: Collection
 permalink: /collection/
+slider: true
+image: "call-to-action-bg.jpg"
 ---
 # The Paper Beats Rock Collection
 
