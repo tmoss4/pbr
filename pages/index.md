@@ -4,7 +4,7 @@ title: Paper Beats Rock
 permalink: /
 slider: true
 heading: "Paper Beats Rock: Digital Media Center"
-subheading: "Working, training, and creating for the 21st century."
+subheading: "Working, training, and creating for the 21st century. Opening in 2018!"
 ---
 <!-- About Us Start -->
 <section id="intro">
