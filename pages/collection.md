@@ -8,7 +8,7 @@ image: "call-to-action-bg.jpg"
 # The Paper Beats Rock Collection
 
 >
-"Someone once told me that smart people build things. That was really comforting to me because I didn't have to figure out if I was smart, I just needed to see if I could build something - and I did.""
+"Someone once told me that smart people build things. That was really comforting to me because I didn't have to figure out if I was smart, I just needed to see if I could build something - and I did."
 
 Paper Beats Rock is a growing collection of works that span art, politics, information, and education. It was started by Theophilus Moss to expand the universe of high-quality Bahamian-focused websites. Creation and creativity are at the core of what the collection stands for.
 
