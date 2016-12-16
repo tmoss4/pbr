@@ -48,12 +48,10 @@ subheading: "Opening in 2018: Working, training, and creating for the 21st centu
 <!-- Description has a 75 character limit -->
 <section id="service">
   <div class="container">
-    <div class="row">
       <div class="section-title">
           <h2>Current or Upcoming Services</h2>
           <p>The Paper Beats Rock: Digital Media Center is still young and growing but we hope to add a variety of services as we expand.</p>
       </div><!-- section-title close -->
-    </div><!-- row 1 close -->
     <div class="row ">
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
@@ -120,9 +118,9 @@ subheading: "Opening in 2018: Working, training, and creating for the 21st centu
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h2>We design delightful digital experiences.</h2>
-        <p>Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
-        <a class="btn btn-default btn-call-to-action" href="#" >Tell Us Your Story</a>
+        <h2>Come collaborate and create with us!</h2>
+        <p>Not sure of what's possible or looking for something specific you couldn't find? Let us know what you're looking to learn or build and we'll help you achieve it!</p>
+        <a class="btn btn-default btn-call-to-action" href="mailto:moss.theophilus@gmail.com" >Send us an email</a>
       </div><!-- col-md-12 close -->
     </div><!-- row close -->
   </div><!-- container close -->

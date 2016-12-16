@@ -23,3 +23,95 @@ There are several different courses to choose from in a variety of areas!
 * Recommended prerequisites: Calculus I and II? Basic understanding of programming?
 
 In addition to the available courses, the center is always working several projects for public release. Take a look at what's currently going on below:
+
+<!-- Portfolio Start -->
+<section id="portfolio-work">
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="block">
+              <div class="portfolio-menu">
+                <ul>
+                    <li class="filter" data-filter="all">Everything</li>
+                    <li class="filter" data-filter=".Branding">Websites</li>
+                    <li class="filter" data-filter=".Websites">Animation</li>
+                    <li class="filter" data-filter=".Graphic">Electronics</li>
+                    <li class="filter" data-filter=".design">design</li>
+                    <li class="filter" data-filter=".Video">Video</li>
+                </ul>
+              </div>
+              <div class="portfolio-contant">
+                <ul id="portfolio-contant-active">
+                    <li class="mix Branding">
+                      <a href="#">
+                        <img src="{{ site.baseurl }}/img/portfolio/wordpress.png" alt="">
+                        <div class="overly">
+                          <div class="position-center">
+                            <h2>Wordpress</h2>
+                            <p>Code Free Web Design<br/>1 hr course</p>
+                          </div>
+                        </div>
+                      </a>
+                  </li>
+                  <li class="mix Websites">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/img/portfolio/github-logo.jpg" alt="">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Chuck Testa</h2>
+                          <p>Labore et dolore magna aliqua<br/> Ut enim ad </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix Graphic">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/img/portfolio/github-social.jpg" alt="">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Tesla Motors</h2>
+                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix design">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/img/portfolio/jekyll-gitpages.png" alt="">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Tesla Motors</h2>
+                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix Video">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/img/portfolio/ironman.jpg" alt="">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Tesla Motors</h2>
+                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix Graphic">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/img/portfolio/jekyll.png" alt="">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Tesla Motors</h2>
+                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</section>

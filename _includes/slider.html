@@ -1,20 +1,33 @@
-<!-- Slider Start -->
-<section id="global-header">
-
 {% if page.image %}
-<script>
-    $("#global-header").background("{{ site.urlimg }}{{ page.header.image }}"
-</script>
-{% endif %}
 
+<section id="global-header" style="background: url('{{ site.urlimg }}/{{ page.image }}')">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1>{{ page.heading }}</h1>
-          <h3>{{ page.subheading }}</h3>
+          <h1 class="animated fadeInUp">{{ page.heading }}</h1>
+          <h3 class="animated fadeInUp">{{ page.subheading }}</h3>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+{% elsif page.image == false %}
+
+{% else %}
+
+<section id="global-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1 class="animated fadeInUp">{{ page.heading }}</h1>
+          <h3 class="animated fadeInUp">{{ page.subheading }}</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% endif %}
