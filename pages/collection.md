@@ -20,13 +20,16 @@ Everything an individual needs to create great websites, including tutorials, is
 ## [Bahamas Knowledge Revolution][2] 
 > Launched around the same time as the digital media center. It's a knowledgebase for Bahamian politics and some of the country's most important statistics.
 
-## [The Compass Points East][3]
-> The first planned webcomic of the collection. The story follows three children as they encounter the unknown on their little island where all is not as it seems.
+## The Compass Points East
+> The first planned webcomic of the collection. The story follows three children as they encounter the unknown on their little island where all is not as it seems. The first story arc is storyboarded but we're looking for a talented artist to work with! Please reach out if interested.
+
+## [Bahamas Nonprofits][3]
+> A quick page for the collection showing the active nonprofit organizations around the Bahamas.
 
 ## [Personal blog][4]
-> One Bahamian shouting into the void. I mostly cover starting and running a business in the Bahamas.
+> One Bahamian shouting into the void. I mostly cover starting and running a business in the Bahamas. (Or will in 2018 when I start)
 
 [1]: http://tmoss4.github.io/pbr/
 [2]: http://tmoss4.github.io/bkr/
-[3]: http://tmoss4.github.io/tcpe/ 
+[3]: http://tmoss4.github.io/bahamas-nonprofits/
 [4]: http://tmoss4.github.io/
