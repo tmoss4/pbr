@@ -58,3 +58,5 @@ subheading: Thank you for your continued support!
   </div>
 </section>
 
+If you would like to lend your support financially or otherwise, please email the center at <a href="mailto:moss.theophilus@gmail.com">moss.theophilus@gmaill.com</a> and let us know!
+

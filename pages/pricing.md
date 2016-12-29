@@ -6,7 +6,6 @@ slider: true
 heading: Tools For The 21st Century
 subheading: Get access, get help, create something!
 ---
-
 # Pricing
 
 We love having visitors!
