@@ -64,7 +64,8 @@ subheading: Send us an email or visit the center yourself!
       <div class="col-md-6 col-sm-12">
         <div class="block">
           <h2>We Also Count In Google Map</h2>
-         <div style="width: 100%"><iframe width="100%" height="300" src="http://www.mapi.ie/create-google-map/map.php?width=100%&amp;height=300&amp;hl=en&amp;coord=25.056405574406064,-77.35301971185555&amp;q=No%20Location%20Yet+(Paper%20Beats%20Rock)&amp;ie=UTF8&amp;t=&amp;z=12&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="http://www.mapsdirections.info/ro/creeaza-harta-google/">Încorporează HTML-ul Google Maps</a> na <a href="http://www.mapsdirections.info/ro/">Planificare rută cu Google Maps</a></iframe></div><br />
-      </div>
+            <div class="google-map">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.472979439986!2d-73.97769068489596!3d40.7516207793276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2590247c56379%3A0x15e13bea38b43e18!2sChrysler+Building!5e0!3m2!1sen!2sus!4v1477406538220" width="555" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
     </div>
   </div>
