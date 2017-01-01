@@ -50,5 +50,5 @@ keep_files:
   - ".gitignore"
 
   gems:
-  - jekyll-seo-tag
+    - jekyll-seo-tag
 
