@@ -49,6 +49,3 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-  gems:
-    - jekyll-seo-tag
-
