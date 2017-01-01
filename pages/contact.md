@@ -55,7 +55,7 @@ subheading: Send us an email or visit the center yourself!
             <li><a href="https://www.linkedin.com/in/tmoss4">
             <i class="fa fa-linkedin"></i></a>
             </li>
-            <li><a href="#">
+            <li><a href="https://www.facebook.com/paperbeatsrockdmc/">
             <i class="fa fa-facebook"></i></a>
             </li>
           </ul>
