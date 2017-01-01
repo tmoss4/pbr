@@ -33,7 +33,7 @@ The DMC offers a variety of spaces!
 
 <div class="row">
 	<div class="large-12 columns">
-		<img src="{{site.imgrurl}}spaces/audio-section.jpg" alt="Audio Section">
+		<img src="{{site.imgurl}}spaces/audio-section.jpg" alt="Audio Section">
 		<p>Check out our recording station to put your first single together or learn how make your own beats.</p>
 	</div>
 </div>
